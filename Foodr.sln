@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foodr", "Foodr\Foodr\Foodr.csproj", "{8C2950EE-4450-4492-B014-A33EDD8DB6C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foodr.Android", "Foodr\Foodr.Android\Foodr.Android.csproj", "{41AD88FD-AA35-46B7-A026-81489C6D3872}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foodr.Desktop", "Foodr\Foodr.Desktop\Foodr.Desktop.csproj", "{A71055AB-B508-414B-81D2-CDBC7B9B8C45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foodr.iOS", "Foodr\Foodr.iOS\Foodr.iOS.csproj", "{C1913E2C-570C-4C0C-87A9-52757EB80018}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foodr.Browser", "Foodr\Foodr.Browser\Foodr.Browser.csproj", "{AC4B051A-45D4-432C-A574-DBF36109EB5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C2950EE-4450-4492-B014-A33EDD8DB6C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C2950EE-4450-4492-B014-A33EDD8DB6C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C2950EE-4450-4492-B014-A33EDD8DB6C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C2950EE-4450-4492-B014-A33EDD8DB6C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41AD88FD-AA35-46B7-A026-81489C6D3872}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41AD88FD-AA35-46B7-A026-81489C6D3872}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41AD88FD-AA35-46B7-A026-81489C6D3872}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{41AD88FD-AA35-46B7-A026-81489C6D3872}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41AD88FD-AA35-46B7-A026-81489C6D3872}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41AD88FD-AA35-46B7-A026-81489C6D3872}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{A71055AB-B508-414B-81D2-CDBC7B9B8C45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A71055AB-B508-414B-81D2-CDBC7B9B8C45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A71055AB-B508-414B-81D2-CDBC7B9B8C45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A71055AB-B508-414B-81D2-CDBC7B9B8C45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1913E2C-570C-4C0C-87A9-52757EB80018}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1913E2C-570C-4C0C-87A9-52757EB80018}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1913E2C-570C-4C0C-87A9-52757EB80018}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C1913E2C-570C-4C0C-87A9-52757EB80018}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1913E2C-570C-4C0C-87A9-52757EB80018}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1913E2C-570C-4C0C-87A9-52757EB80018}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{AC4B051A-45D4-432C-A574-DBF36109EB5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC4B051A-45D4-432C-A574-DBF36109EB5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC4B051A-45D4-432C-A574-DBF36109EB5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC4B051A-45D4-432C-A574-DBF36109EB5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
